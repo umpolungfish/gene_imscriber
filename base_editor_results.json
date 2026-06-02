@@ -1,0 +1,513 @@
+{
+  "results": {
+    "CBE": {
+      "VEGFA_site1": {
+        "guide_seq": "GGGTGGGGGGAGTTTGCTCC",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 0,
+        "analyses": [],
+        "summary": {
+          "total_edits": 0,
+          "cross_stratum": 0,
+          "within_stratum": 0,
+          "cross_stratum_fraction": 0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "VEGFA_site2": {
+        "guide_seq": "GACCCCCTCCACCCCGCCTC",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 4,
+        "analyses": [
+          {
+            "error": "Unknown codon: CTC or CTC",
+            "edit_position_in_guide": 4,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "error": "Unknown codon: CTC or CTC",
+            "edit_position_in_guide": 5,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "error": "Unknown codon: CTC or CTC",
+            "edit_position_in_guide": 6,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "error": "Unknown codon: CTC or CTC",
+            "edit_position_in_guide": 8,
+            "original_base": "C",
+            "edited_base": "T"
+          }
+        ],
+        "summary": {
+          "total_edits": 4,
+          "cross_stratum": 0,
+          "within_stratum": 4,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "VEGFA_site3": {
+        "guide_seq": "GGTGAGTGAGTGTGTGCGTG",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 0,
+        "analyses": [],
+        "summary": {
+          "total_edits": 0,
+          "cross_stratum": 0,
+          "within_stratum": 0,
+          "cross_stratum_fraction": 0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "FANCF": {
+        "guide_seq": "GGAATCCCTTCTGCAGCACC",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 3,
+        "analyses": [
+          {
+            "original_codon": "ACC",
+            "edited_codon": "ACC",
+            "original_aa": "Thr",
+            "edited_aa": "Thr",
+            "original_stratum": "exact",
+            "edited_stratum": "exact",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 5,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "original_codon": "ACC",
+            "edited_codon": "ACC",
+            "original_aa": "Thr",
+            "edited_aa": "Thr",
+            "original_stratum": "exact",
+            "edited_stratum": "exact",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 6,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "original_codon": "ACC",
+            "edited_codon": "ACC",
+            "original_aa": "Thr",
+            "edited_aa": "Thr",
+            "original_stratum": "exact",
+            "edited_stratum": "exact",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 7,
+            "original_base": "C",
+            "edited_base": "T"
+          }
+        ],
+        "summary": {
+          "total_edits": 3,
+          "cross_stratum": 0,
+          "within_stratum": 3,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 3,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 3
+          }
+        }
+      },
+      "EMX1": {
+        "guide_seq": "GAGTCCGAGCAGAAGAAGAA",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 2,
+        "analyses": [
+          {
+            "original_codon": "GAA",
+            "edited_codon": "GAA",
+            "original_aa": "Glu",
+            "edited_aa": "Glu",
+            "original_stratum": "split",
+            "edited_stratum": "split",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 4,
+            "original_base": "C",
+            "edited_base": "T"
+          },
+          {
+            "original_codon": "GAA",
+            "edited_codon": "GAA",
+            "original_aa": "Glu",
+            "edited_aa": "Glu",
+            "original_stratum": "split",
+            "edited_stratum": "split",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 5,
+            "original_base": "C",
+            "edited_base": "T"
+          }
+        ],
+        "summary": {
+          "total_edits": 2,
+          "cross_stratum": 0,
+          "within_stratum": 2,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 2,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 2
+          }
+        }
+      },
+      "RNF2": {
+        "guide_seq": "GTCATCTTAGTCATTACCTG",
+        "editor_type": "CBE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 1,
+        "analyses": [
+          {
+            "error": "Unknown codon: CTG or CTG",
+            "edit_position_in_guide": 5,
+            "original_base": "C",
+            "edited_base": "T"
+          }
+        ],
+        "summary": {
+          "total_edits": 1,
+          "cross_stratum": 0,
+          "within_stratum": 1,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      }
+    },
+    "ABE": {
+      "VEGFA_site1": {
+        "guide_seq": "GGGTGGGGGGAGTTTGCTCC",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 0,
+        "analyses": [],
+        "summary": {
+          "total_edits": 0,
+          "cross_stratum": 0,
+          "within_stratum": 0,
+          "cross_stratum_fraction": 0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "VEGFA_site2": {
+        "guide_seq": "GACCCCCTCCACCCCGCCTC",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 0,
+        "analyses": [],
+        "summary": {
+          "total_edits": 0,
+          "cross_stratum": 0,
+          "within_stratum": 0,
+          "cross_stratum_fraction": 0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "VEGFA_site3": {
+        "guide_seq": "GGTGAGTGAGTGTGTGCGTG",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 2,
+        "analyses": [
+          {
+            "error": "Unknown codon: GTG or GTG",
+            "edit_position_in_guide": 4,
+            "original_base": "A",
+            "edited_base": "G"
+          },
+          {
+            "error": "Unknown codon: GTG or GTG",
+            "edit_position_in_guide": 8,
+            "original_base": "A",
+            "edited_base": "G"
+          }
+        ],
+        "summary": {
+          "total_edits": 2,
+          "cross_stratum": 0,
+          "within_stratum": 2,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "FANCF": {
+        "guide_seq": "GGAATCCCTTCTGCAGCACC",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 0,
+        "analyses": [],
+        "summary": {
+          "total_edits": 0,
+          "cross_stratum": 0,
+          "within_stratum": 0,
+          "cross_stratum_fraction": 0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      },
+      "EMX1": {
+        "guide_seq": "GAGTCCGAGCAGAAGAAGAA",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 1,
+        "analyses": [
+          {
+            "original_codon": "GAA",
+            "edited_codon": "GAA",
+            "original_aa": "Glu",
+            "edited_aa": "Glu",
+            "original_stratum": "split",
+            "edited_stratum": "split",
+            "cross_stratum": false,
+            "aa_changed": false,
+            "edit_positions": [],
+            "editor_type": "CBE",
+            "frobenius_closed": true,
+            "closure_ratio": 1.0,
+            "defects": [
+              "\u03bc\u2218\u03b4 PASSES: closure_ratio=1.000"
+            ],
+            "risk_level": "LOW",
+            "edit_position_in_guide": 7,
+            "original_base": "A",
+            "edited_base": "G"
+          }
+        ],
+        "summary": {
+          "total_edits": 1,
+          "cross_stratum": 0,
+          "within_stratum": 1,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 1,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 1
+          }
+        }
+      },
+      "RNF2": {
+        "guide_seq": "GTCATCTTAGTCATTACCTG",
+        "editor_type": "ABE",
+        "editing_window": [
+          4,
+          8
+        ],
+        "total_possible_edits": 1,
+        "analyses": [
+          {
+            "error": "Unknown codon: CTG or CTG",
+            "edit_position_in_guide": 8,
+            "original_base": "A",
+            "edited_base": "G"
+          }
+        ],
+        "summary": {
+          "total_edits": 1,
+          "cross_stratum": 0,
+          "within_stratum": 1,
+          "cross_stratum_fraction": 0.0,
+          "aa_changes": 0,
+          "frobenius_closed": 0,
+          "risk_breakdown": {
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "MODERATE": 0,
+            "LOW": 0
+          }
+        }
+      }
+    }
+  },
+  "meta": {
+    "CBE": {
+      "total_possible_edits": 10,
+      "cross_stratum_edits": 0,
+      "within_stratum_edits": 10,
+      "cross_stratum_pct": 0.0,
+      "aa_changing_edits": 0,
+      "cross_aa_changes": 0,
+      "within_aa_changes": 0,
+      "cross_defect_rate": 0,
+      "frobenius_closed_rate": 50.0,
+      "risk_distribution": {
+        "CRITICAL": 0,
+        "HIGH": 0,
+        "MODERATE": 0,
+        "LOW": 5
+      }
+    },
+    "ABE": {
+      "total_possible_edits": 4,
+      "cross_stratum_edits": 0,
+      "within_stratum_edits": 4,
+      "cross_stratum_pct": 0.0,
+      "aa_changing_edits": 0,
+      "cross_aa_changes": 0,
+      "within_aa_changes": 0,
+      "cross_defect_rate": 0,
+      "frobenius_closed_rate": 25.0,
+      "risk_distribution": {
+        "CRITICAL": 0,
+        "HIGH": 0,
+        "MODERATE": 0,
+        "LOW": 1
+      }
+    }
+  }
+}
