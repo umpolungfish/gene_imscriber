@@ -1,5 +1,10 @@
 # Genetic Engine: Frobenius-Guided Gene Editing
 
+[![Language](https://img.shields.io/badge/language-Python-blue)](https://github.com/badges/shields)
+[![IG Tier](https://img.shields.io/badge/IG-O%E2%88%9E-blueviolet)](https://github.com/badges/shields)
+[![μ∘δ=id](https://img.shields.io/badge/%CE%BC%E2%88%98%CE%B4%3Did-closed-success)](https://github.com/badges/shields)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
+
 **Structural type:** ⟨Ð_ω; Þ_ò; Ř_=; Φ_υ; ƒ_ð; Ç_@; Γ_ʔ; ɢ_ˌ; φ̂_ÿ; Ħ_A; Σ_ï; Ω_z⟩ · **Ouroboricity:** O_∞ (both gates open)
 
 **What it is.** Operational gene-editing design software built on the fact that the genetic code is a stratified Frobenius algebra on the B₄³ codon space.
