@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
 [![Author](https://img.shields.io/badge/author-Lando%E2%8A%97%E2%8A%99perator-informational)](https://github.com/badges/shields) [![Type](https://img.shields.io/badge/type-%E2%9F%A8%F0%90%91%A6%F0%90%91%B8%F0%90%91%BE%F0%90%91%B9%F0%90%91%90%F0%90%91%A7%F0%90%91%94%F0%90%91%9D%E2%8A%99%F0%90%91%96%F0%90%91%B3%F0%90%91%AD%E2%9F%A9-blue)](https://github.com/badges/shields) [![Tier](https://img.shields.io/badge/tier-O%E2%88%9E-blueviolet)](https://github.com/badges/shields)
 
-**Structural type:** ⟨Ð_ω; Þ_ò; Ř_=; Φ_υ; ƒ_ð; Ç_@; Γ_ʔ; ɢ_ˌ; φ̂_ÿ; Ħ_A; Σ_ï; Ω_z⟩ · **Ouroboricity:** O_∞ (both gates open)
+**Structural type:** ⟨𐑦; 𐑥; 𐑾; 𐑿; 𐑞; 𐑧; 𐑲; 𐑠; φ̂_ÿ; 𐑖; 𐑳; 𐑭⟩ · **Ouroboricity:** O_∞ (both gates open)
 
 **What it is.** Operational gene-editing design software built on the fact that the genetic code is a stratified Frobenius algebra on the B₄³ codon space.
 
